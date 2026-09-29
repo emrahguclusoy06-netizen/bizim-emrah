@@ -1,3 +1,10 @@
-# Bizim Emrah
+# Bizim Emrah — Emrah Güçlüsoy
 
-Emrah Güçlüsoy'un problem çözme, proje geliştirme, teknik saha ve disiplinler arası AR-GE yaklaşımını anlatan açık web sitesi.
+**Emrah Güçlüsoy kimdir?** İzmir'de yaşayan, yaklaşık 24 yıllık elektrik saha deneyimi bulunan elektrik teknikeri. Elektrik formenliği, elektrik saha kontrol teknikerliği, şantiye koordinasyonu ve teknik problem çözme alanlarında çalışmıştır.
+
+- [Emrah Güçlüsoy kimdir? Özgeçmiş](https://emrahguclusoy06-netizen.github.io/bizim-emrah/emrah-guclusoy-kimdir.html)
+- [Bizim Emrah ana sayfası](https://emrahguclusoy06-netizen.github.io/bizim-emrah/)
+- [Elektrik formenliği ve saha kontrolü](https://emrahguclusoy06-netizen.github.io/bizim-emrah/elektrik-teknik-saha.html)
+- [Site haritası](https://emrahguclusoy06-netizen.github.io/bizim-emrah/sitemap.xml)
+
+Bu repo Emrah Güçlüsoy'un kişisel tanıtım sitesine aittir. Mesleki deneyimler kişinin kendi beyanıdır. Mühendislik yetkisi gerektiren işler ilgili uzmanlarca yürütülmelidir.
